@@ -1,0 +1,5 @@
+com\example\wildfly\collections\HomeController.class
+com\example\wildfly\ServletInitializer.class
+com\example\wildfly\entities\Product.class
+com\example\wildfly\repositories\ProductRepository.class
+com\example\wildfly\WildflyApplication.class
