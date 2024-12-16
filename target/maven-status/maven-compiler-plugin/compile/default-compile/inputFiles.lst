@@ -1,5 +1,9 @@
 d:\3-tier-app\wildfly\src\main\java\com\example\wildfly\WildflyApplication.java
 d:\3-tier-app\wildfly\src\main\java\com\example\wildfly\repositories\ProductRepository.java
 d:\3-tier-app\wildfly\src\main\java\com\example\wildfly\collections\HomeController.java
+d:\3-tier-app\wildfly\src\main\java\com\example\wildfly\config\SecurityConfig.java
+d:\3-tier-app\wildfly\src\main\java\com\example\wildfly\dto\LoginRequestDto.java
+d:\3-tier-app\wildfly\src\main\java\com\example\wildfly\dto\LoginResponseDto.java
+d:\3-tier-app\wildfly\src\main\java\com\example\wildfly\services\AuthenticationService.java
 d:\3-tier-app\wildfly\src\main\java\com\example\wildfly\entities\Product.java
 d:\3-tier-app\wildfly\src\main\java\com\example\wildfly\ServletInitializer.java
